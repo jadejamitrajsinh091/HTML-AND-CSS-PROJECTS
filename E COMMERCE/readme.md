@@ -1,5 +1,5 @@
 <h1># 🛒 E-Grocery Super Market — Product Grid Layout</h1
-     <h3>Deployment Link:-html-and-css-projects-6y8n-qic9feq0l.vercel.app </h3>                                                 
+     <h3>Deployment Link:-</h3> html-and-css-projects-6y8n-qic9feq0l.vercel.app                                                 
 <img width="1920" height="1296" alt="image" src="https://github.com/user-attachments/assets/039d7aa9-9453-4852-bd6e-bca0c846a9fc" />
 
 This project is a simple grocery shopping webpage built using **HTML + CSS**.  
